@@ -9,7 +9,7 @@ if [[ -n "$CF_PASSWORD" ]]; then
   sudo apt-get install cf-cli
   CF_APP=banking-nest-elizama
   CF_USERNAME=u201618965@upc.edu.pe
-  CF_ORGANIZATION=pcsiebau@upc.edu.pe
+  CF_ORGANIZATION=u201618965@upc.edu.pe
   CF_SPACE=dev
   echo $CF_APP
   echo $CF_USERNAME
