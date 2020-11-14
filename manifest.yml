@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: banking-nest-ebautista
+  - name: banking-nest-elizama
     memory: 256MB
     instances: 1
     buildpacks:
